@@ -2,7 +2,7 @@
     <string name="app_name">Start Activity For Result</string>
 
     <string name="label_select_drink">Selecione sua bebida</string>
-    <string name="title_activity_selection">Lista de  bebidas ideal</string>
+    <string name="title_activity_selection">Lista de bebidas ideal</string>
 
     <string-array name="drinks">
         <item>Caipirinha</item>
